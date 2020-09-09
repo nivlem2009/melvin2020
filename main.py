@@ -85,6 +85,7 @@ cuotamensual = ((monto * 0.12) / 12) + (monto / 12)
 print(cuotamensual)
 
 
+print("prueba")
 
 
 
